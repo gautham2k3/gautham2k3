@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautham</h1>
-<h3 align="center">A passionate developer</h3>
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CSE+Student+and+Self+Learner;Open+Source+enthusiast+and+collaborator;Passionate+about+tech+for+social+impact)](https://git.io/typing-svg)
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gautham2k3&label=Profile%20views&color=0e75b6&style=flat" alt="gautham2k3" /> </p>
 
