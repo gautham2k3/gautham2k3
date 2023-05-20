@@ -21,10 +21,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,git,java,ps&theme=dark)](https://skillicons.dev)
 
-<h3 align="left">Currently Working on :</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,androidstudio&theme=dark)](https://skillicons.dev)
-
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=gautham2k3&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)
 
 ## 🔗 Links
