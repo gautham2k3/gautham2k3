@@ -31,6 +31,8 @@
 )](https://www.codechef.com/users/gautham2k3)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:bgautham27@gmail.com?)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/gautham2k3/)
+
 
 <!---
 gautham2k3/gautham2k3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
