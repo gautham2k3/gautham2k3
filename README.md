@@ -23,6 +23,8 @@
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=gautham2k3&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautham2k3&hide_progress=true&theme=dark)
+
 ## 🔗 Links
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/gautham2k3/)
