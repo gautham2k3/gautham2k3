@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Innovative Projects**
 
-- 🤝 I’m looking for help with **Java Develpment**
-
 - 📫 How to reach me **bgnaidu27@gmail.com**
 
 <p align="left">
