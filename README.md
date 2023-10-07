@@ -6,9 +6,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gautham2k3&label=Profile%20views&color=0e75b6&style=flat" alt="gautham2k3" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithm**
+- 👨‍💻 **Computer Science Enthusiast (2nd Year)**
 
-- 👯 I’m looking to collaborate on **Innovative Projects**
+- 🌐 **Open Source Enthusiast | DSA Learner | Web3 & App Development Enthusiast**
+
+- 🧠 **Passionate Coder:** Regularly practices on LeetCode and CodeChef
+
+---
+
+Feel free to adjust or personalize this bio as needed.
 
 - 📫 How to reach me **bgnaidu27@gmail.com**
 
