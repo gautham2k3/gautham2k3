@@ -14,7 +14,7 @@
 
 ---
 
-Feel free to adjust or personalize this bio as needed.
+Feel free to reach me.
 
 - 📫 How to reach me **bgnaidu27@gmail.com**
 
