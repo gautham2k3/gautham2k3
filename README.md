@@ -24,7 +24,7 @@ Feel free to reach me.
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,java,flutter,mongodb,ps,solidity&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,git,java,vue,flutter,mongodb,ps,solidity&theme=dark)](https://skillicons.dev)
 
 ### 🛠️ Projects
 
